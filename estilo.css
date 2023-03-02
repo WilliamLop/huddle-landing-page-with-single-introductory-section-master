@@ -114,7 +114,7 @@ footer .horizontal-list a{
 /* Media querys */
 @media (min-width: 48rem){
     body{
-        background-image: url(imageS/bg-desktop.svg);
+        background-image: url(images/bg-desktop.svg);
         background-size: cover;
 
     }
@@ -154,7 +154,7 @@ footer .horizontal-list a{
 }
 @media (min-width: 80rem){
     body{
-        background-image: url(imageS/bg-desktop.svg);
+        background-image: url(images/bg-desktop.svg);
         background-size: contain;
 
     }
